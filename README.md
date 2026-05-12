@@ -1,2 +1,21 @@
-# odin-recipes
-Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+# Odin-recipes
+
+This project includes a website containing three different links to three different recipes (picanha brazilian steak, chocolate chip cookie, and maple salmon). It uses HTML, including images, links, headings, and paragraphs.
+
+This is part of the foundations path from The Odin Project.
+
+## 🚀 Live Preview
+
+You can see the project in action here: 
+[davilages.github.io/odin-recipes](https://davilages.github.io/odin-recipes)
+
+## 🛠️ Built With
+
+*   HTML5
+*   Git & GitHub
+
+## 📝 Features
+
+*   Navigation between different recipe pages.
+*   Structured content using semantic HTML.
+*   Integration of local and external images.
